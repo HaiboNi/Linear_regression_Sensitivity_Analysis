@@ -2,6 +2,7 @@
 
 Source code from 
 Sobie, E.A., 2009. Parameter Sensitivity Analysis in Electrophysiological Models Using Multivariable Regression. Biophysical Journal 96, 1264–1274. https://doi.org/10.1016/j.bpj.2008.10.056
+Originally from https://wwwpub.utdallas.edu/~herve/ as indicated in the paper.
 %}
 
 function [T,P,W,Wstar,U,b,C,B_pls,...
