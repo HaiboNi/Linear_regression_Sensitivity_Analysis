@@ -1,3 +1,9 @@
+%{ 
+
+Source code from 
+Sobie, E.A., 2009. Parameter Sensitivity Analysis in Electrophysiological Models Using Multivariable Regression. Biophysical Journal 96, 1264–1274. https://doi.org/10.1016/j.bpj.2008.10.056
+%}
+
 function [T,P,W,Wstar,U,b,C,B_pls,...
     Bpls_star,Xori_rec,Yori_rec,...
     R2_X,R2_Y]=PLS_nipals(X,Y,nfactor)
